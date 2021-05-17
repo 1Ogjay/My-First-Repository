@@ -1,2 +1,2 @@
 # My-First-Repository
-For training on how GITHub works
+My-Fisrt-Repository is for training on how GITHub works.
